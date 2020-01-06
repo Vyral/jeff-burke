@@ -37,9 +37,9 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Download the HomeScout App here"
+    CTA_title: "HomeScout App"
     CTA_text: "Search all the MLS listings and have automatic Home Sold Alerts sent to you as soon as homes sell in your neighborhood. Get a private account for free!"
-    CTA_link_text: "HomeScout"
+    CTA_link_text: "Download the HomeScout App here"
     CTA_url: https://homescout.app.link/Burke?share=a3f7cd2f-e8b2-4c59-b42a-ff65710ea6ef1578066685865
 
 second_sidebar_CTA:
