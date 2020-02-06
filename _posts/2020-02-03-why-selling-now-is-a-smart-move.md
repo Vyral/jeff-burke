@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Why Selling Now Is a Smart Move
-date: 2020-02-03 21:18:13
+date: 2020-02-03 21:18:00
 tags:
 excerpt: >-
   Here’s some important points about selling during this time of year that I
   share with potential sellers.
 enclosure:
-pullquote: Selling now allows you to cut competition down to 5 or 10 sellers.
+pullquote: Selling now allows you to cut the competition down to five or 10 sellers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -21,7 +21,7 @@ I’ve been selling real estate for almost 25 years, and nearly every year I’m
 
 **My answer is always a resounding ‘yes.’** In the wintertime, inventory is extremely low since many people take their homes off of the market and wait to re-list in spring.&nbsp;
 
-This means that, as a wintertime seller, you’ll have less to compete against. Whereas you’re likely to compete against 20 to 30 other home sellers if you wait until spring, selling now allows you cut that competition down to 5 or 10.&nbsp;
+This means that, as a wintertime seller, this means you’ll have fewer homeowners to compete against. Whereas you’re likely to compete against 20 to 30 other home sellers if you wait until spring, selling now allows you cut that competition down to five or 10.&nbsp;
 
 Another point to consider is that **wintertime buyers are the most serious**. The average buyer doesn’t prefer to look for homes during this time of year, so those who search now do so out of necessity. It could be a job transfer or dramatic life event compelling them to buy now.&nbsp;
 
