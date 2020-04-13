@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We’ve Adapted to the COVID-19 Pandemic
-date: 2020-04-13 16:37:06
+date: 2020-04-13 16:37:00
 tags:
 excerpt: Are buyers and sellers still active in the market? Find out here.
 enclosure:
@@ -23,7 +23,7 @@ We’ve now begun to do a lot more virtually. We’re doing **virtual buyer cons
 
 {% include pullquote.html %}
 
-We’ve also been setting up **virtual walkthroughs** of homes. If we don’t have a virtual walkthrough ready for a particular home, we’ll schedule for the seller to record a video as they walk through the house and answer the buyer’s questions about the property. Even inspectors and appraisers are still able to go through houses.
+We’ve also been setting up **virtual walk-throughs** of homes. If we don’t have a virtual walk-through ready for a particular home, we’ll schedule for the seller to record a video as they walk through the house and answer the buyer’s questions about the property. Even inspectors and appraisers are still able to go through houses.
 
 On the selling side, we’ve been doing **virtual listing consultations**, where the seller will walk us through their property on Zoom. We can record that walkthrough and upload it to the MLS so that any buyer can access it if they’re interested in the house.
 
