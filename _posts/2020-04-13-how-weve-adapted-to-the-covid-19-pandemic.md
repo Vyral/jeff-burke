@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We’ve Adapted to the COVID-19 Pandemic
-date:
+date: 2020-04-13 16:37:06
 tags:
 excerpt: Are buyers and sellers still active in the market? Find out here.
 enclosure:
