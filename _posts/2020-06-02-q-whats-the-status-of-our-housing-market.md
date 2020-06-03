@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s the Status of Our Housing Market?'
-date: 2020-06-02 17:08:07
+date: 2020-06-02 17:08:00
 tags:
 excerpt: Homes have sold quickly and safely in May. Here are all the details
 enclosure:
@@ -33,4 +33,4 @@ On the selling side, homes have been fetching multiple offers, even throughout t
 
 In just the last two weeks since we’ve been deemed essential and allowed to get out and show houses, **we put 246 homes on the market and 130 have closed.&nbsp;**
 
-If you’ve been thinking about selling or want a free market analysis where I’ll outline the do’s don’ts of the selling process, give me a call or send an email. I’m always here to be a resource for you, and I look forward to hearing from you soon\!
+If you’ve been thinking about selling or want a free market analysis where I’ll outline the do’s and don’ts of the selling process, give me a call or send an email. I’m always here to be a resource for you, and I look forward to hearing from you soon\!
