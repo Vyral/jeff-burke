@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Should I Be Taking Home Photos Now?'
-date: 2020-09-23 15:10:14
+date: 2020-09-23 15:10:00
 tags:
 excerpt: It’s a great time to get exterior photos of your home taken before winter.
 enclosure:
